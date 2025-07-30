@@ -1,0 +1,4 @@
+Repository URL for Tutorial 2:
+https://github.com/Jacoboellis/tutorial_2.git
+
+This repository contains the Maven project with Google Guava dependency added to pom.xml.
